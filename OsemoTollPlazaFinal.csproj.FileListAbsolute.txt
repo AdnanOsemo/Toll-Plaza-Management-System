@@ -1,0 +1,33 @@
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.exe.config
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.exe
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.pdb
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.csprojResolveAssemblyReference.cache
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form1.resources
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form2.resources
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Properties.Resources.resources
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.csproj.GenerateResource.Cache
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.exe
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.pdb
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form3.resources
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form4.resources
+D:\My Projects\OsemoTollPlazaFinal\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form5.resources
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.exe.config
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.exe
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.pdb
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.exe
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.pdb
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.csprojResolveAssemblyReference.cache
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form1.resources
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form2.resources
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form3.resources
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form4.resources
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form5.resources
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Properties.Resources.resources
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.csproj.GenerateResource.Cache
+D:\My Projects\OsemoTollPlazaFinal - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.Form6.resources
+D:\My Projects\OsemoTollPlaza\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.exe.config
+D:\My Projects\OsemoTollPlaza\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.exe
+D:\My Projects\OsemoTollPlaza\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.pdb
+D:\My Projects\OsemoTollPlaza - Copy\OsemoTollPlazaFinal\bin\Debug\OsemoTollPlazaFinal.exe.config
+D:\My Projects\OsemoTollPlaza - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.exe
+D:\My Projects\OsemoTollPlaza - Copy\OsemoTollPlazaFinal\obj\Debug\OsemoTollPlazaFinal.pdb
